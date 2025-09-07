@@ -1,0 +1,19 @@
+
+```yaml
+name: sciomics-ml
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyter
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - scipy
+  - requests
+  - pip
+  - pip:
+      # add pip-only dependencies here if needed
