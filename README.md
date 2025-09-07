@@ -37,6 +37,14 @@ Launch Jupyter and open the notebooks:
 
 ---
 
+## Data Requirements
+
+This tutorial uses **DepMap / CCLE** data.  
+- The `OmicsSomaticMutations` file must be downloaded directly from the [DepMap data portal](https://depmap.org/portal/download/) or the CCLE repository.  
+- Place the downloaded file into the `data/` directory before running the notebooks.
+
+---
+
 ## Requirements
 - Python 3.9+
 - Conda or mamba for environment management
