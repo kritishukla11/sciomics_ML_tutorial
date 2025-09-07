@@ -1,8 +1,9 @@
 # Machine Learning with DepMap & CCLE Tutorial
 
 This repository contains a tutorial developed for the **UNC Sciomics Initiative** on applying
-machine learning to DepMap and CCLE data. The notebooks guide participants through
-installation, data exploration, and applying ML models for biological insights.
+a simple Random Forest machine learning model to DepMap and CCLE data using scikit-learn. The 
+notebooks guide participants through installation, data exploration, and applying ML models 
+for biological insights.
 
 ---
 
